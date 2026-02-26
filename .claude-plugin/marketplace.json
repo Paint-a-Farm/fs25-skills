@@ -11,7 +11,7 @@
     {
       "name": "fs25-modding",
       "source": "./plugins/fs25-modding",
-      "description": "FS25 mod development: packaging, deployment, scripting, and game file tools (fs-utils)."
+      "description": "FS25 mod development: packaging, deployment, scripting, vehicle/map/I3D configuration, textures, debugging, and game file tools (fs-utils)."
     }
   ]
 }

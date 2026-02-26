@@ -1,0 +1,9 @@
+{
+  "name": "fs25-modding",
+  "version": "1.0.0",
+  "description": "FS25 mod development: packaging, deployment, Lua scripting, and game file tools (fs-utils)",
+  "author": {
+    "name": "Kim Brandwijk",
+    "email": "kim@paint-a-farm.com"
+  }
+}

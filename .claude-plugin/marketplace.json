@@ -1,0 +1,17 @@
+{
+  "name": "fs25-skills",
+  "owner": {
+    "name": "Paint-a-Farm | Kim Brandwijk",
+    "email": "kim.brandwijk@gmail.com"
+  },
+  "metadata": {
+    "description": "Skills for Farming Simulator 25 mod development"
+  },
+  "plugins": [
+    {
+      "name": "fs25-modding",
+      "source": "./plugins/fs25-modding",
+      "description": "FS25 mod development: packaging, deployment, scripting, and game file tools (fs-utils)."
+    }
+  ]
+}

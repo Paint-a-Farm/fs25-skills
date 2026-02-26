@@ -7,7 +7,7 @@ description: Use when working with fs-utils CLI tools — decompiling Luau/LuaJI
 
 ## Overview
 
-Collection of CLI tools for working with Farming Simulator game files. Repo at `/Users/kim/dev/fs25/fs-utils`.
+Collection of CLI tools for working with Farming Simulator game files. Source: [github.com/scfmod/fs-utils](https://github.com/scfmod/fs-utils)
 
 ## When to Use
 
@@ -18,9 +18,12 @@ Collection of CLI tools for working with Farming Simulator game files. Repo at `
 
 ## Build
 
+Clone the repo and build with Cargo:
+
 ```bash
-cd /Users/kim/dev/fs25/fs-utils
-cargo build  # NEVER --release
+git clone https://github.com/scfmod/fs-utils.git
+cd fs-utils
+cargo build
 ```
 
 Run tools with `cargo run -p <crate> --`:
